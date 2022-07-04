@@ -1,5 +1,7 @@
 # React Native Link Preview
 
+This is a forked lib of [React Native Link Preview](https://github.com/flyerhq)
+
 [![npm](https://img.shields.io/npm/v/@flyerhq/react-native-link-preview)](https://www.npmjs.com/package/@flyerhq/react-native-link-preview)
 [![build](https://github.com/flyerhq/react-native-link-preview/workflows/build/badge.svg)](https://github.com/flyerhq/react-native-link-preview/actions?query=workflow%3Abuild)
 [![Maintainability](https://api.codeclimate.com/v1/badges/385762ec7c1e2326fb7f/maintainability)](https://codeclimate.com/github/flyerhq/react-native-link-preview/maintainability)
